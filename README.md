@@ -1,4 +1,5 @@
-kit
+KIT
 ===
 
-Information for students at KIT (Karlsruhe Institute of Technology)
+Dieses Repository stellt Informationen für Studenten des KIT
+bereit.
