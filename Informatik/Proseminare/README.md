@@ -14,7 +14,7 @@ WS 2013 / 2014
   * Anmeldung im Sekretariat von Prof. Böhm
      * Gebäude 50.34, Raum 367 
      * Offen von Mo-Do, 9:00 - 13:30 sowie am Mi bis 14:30
-     * Fragen können an Frau Patricia Iglesias-Sánchez gestellt werden
+  * Fragen können an Frau Patricia Iglesias-Sánchez gestellt werden
 
 Erfahrungsberichte
 ==================
