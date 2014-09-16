@@ -4,6 +4,13 @@ Bachelor
 Es gibt eine [offizielle Liste](https://www.informatik.kit.edu/924.php),
 aber die ist nicht aktuell.
 
+WS 2014 / 2015
+--------------
+
+* Desaster in der Software-Sicherheit: 
+  * [Informationen](http://formal.iti.kit.edu/~grebing/Proseminar-Desaster-in-Software-Sicherheit-SS14/)
+  * Anmeldung: Simone Meinhart (simone.meinhart@kit.edu)
+
 WS 2013 / 2014
 --------------
 * Mobile Computing (WS13/14): [Anmeldung](https://docs.google.com/spreadsheet/viewform?fromEmail=true&formkey=dGRKV0daSDhSVUxjNmJGUFV6Ujk2eWc6MA), [Weitere Informationen](https://studium.kit.edu/sites/vab/0xD08884CB167F944197B607F015B2EC69/Start/Homepage.aspx)
