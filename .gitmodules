@@ -1,0 +1,6 @@
+[submodule "wiki-ed"]
+	path = wiki-ed
+	url = https://github.com/MartinThoma/wiki-ed
+[submodule "KIT-Musterloesungen"]
+	path = KIT-Musterloesungen
+	url = git@github.com:MartinThoma/KIT-Musterloesungen.git
