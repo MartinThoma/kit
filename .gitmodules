@@ -4,3 +4,6 @@
 [submodule "KIT-Musterloesungen"]
 	path = KIT-Musterloesungen
 	url = git@github.com:MartinThoma/KIT-Musterloesungen.git
+[submodule "iliasDownloaderTool"]
+	path = iliasDownloaderTool
+	url = git@github.com:DeOldSax/iliasDownloaderTool.git
