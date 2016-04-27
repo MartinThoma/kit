@@ -4,5 +4,8 @@ KIT
 Dieses Repository stellt Informationen für Studenten des KIT
 bereit.
 
-[kithub.de](https://www.kithub.de/) stellt ein nutzbares Vorlesungsverzeichnis
-bereit.
+
+## Weitere Websites
+* [kithub.de](https://www.kithub.de/): Ein nutzbares Vorlesungsverzeichnis.
+* [martin-thoma.com](https://martin-thoma.com/tag/klausur/): Hier sind einige
+  Zusammenfassungen zu verschiedenen Vorlesungen zu finden.
